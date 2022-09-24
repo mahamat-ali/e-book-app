@@ -52,7 +52,7 @@ class HomeScreen extends StatelessWidget {
                       height: 221,
                       decoration: BoxDecoration(
                         color: Colors.white,
-                        borderRadius: BorderRadius.circular(29),
+                        borderRadius: BorderRadius.circular(30),
                         boxShadow: [
                           BoxShadow(
                             offset: const Offset(0, 10),
